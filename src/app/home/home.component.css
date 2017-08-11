@@ -1,0 +1,70 @@
+.btn-facebook{
+    background: #3B5998;
+	border-radius: 0;
+	color: #fff;
+	border-width: 1px;
+	border-style: solid;
+    border-color: #263961; 
+    border-radius: 5px
+}
+
+.btn-facebook:link, .btn-facebook:visited {
+	color: #fff;
+}
+.btn-facebook:active, .btn-facebook:hover {
+  background: #263961;
+  color: #fff;
+}
+
+.btn-google{
+    background: #DD4B39;
+	border-radius: 0;
+	color: #fff;
+	border-width: 1px;
+	border-style: solid;
+    border-color: #ad3627; 
+    border-radius: 5px
+}
+
+.btn-google:link, .btn-google:visited {
+	color: #fff;
+}
+.btn-google:active, .btn-google:hover {
+  background: #ad3627;
+  color: #fff;
+}
+
+.btn-mail{
+    background: #aed17b;
+	border-radius: 0;
+	color: #fff;
+	border-width: 1px;
+	border-style: solid;
+    border-color: #cdf78f; 
+    border-radius: 5px
+}
+
+.btn-mail:link, .btn-mail:visited {
+	color: #fff;
+}
+.btn-mail:active, .btn-mail:hover {
+  background: #8dad5f;
+  color: #fff;
+}
+.btn-user{
+    background: #f9c761;
+	border-radius: 0;
+	color: #fff;
+	border-width: 1px;
+	border-style: solid;
+    border-color: #e8ac33; 
+    border-radius: 5px
+}
+
+.btn-user:link, .btn-user:visited {
+	color: #fff;
+}
+.btn-user:active, .btn-user:hover {
+  background: #cc7606;
+  color: #fff;
+}
